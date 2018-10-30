@@ -1,24 +1,9 @@
-= OpenShift Container Platform - Advanced Deployment - Homework Template
+OpenShift Container Platform - Advanced Deployment - Homework Template
 
-Use the files in this repo to guide you on your way to creating
-a fully automated deployment of OpenShift.
+Use the files in this repo to guide you on your way to creating a fully automated deployment of OpenShift.
 
-The person grading the assignment will 
+to install: ansible-playbook ./ocp-adv-homework/homework.yaml
 
-* launch a new homework environment
-* clone a repo
-* execute a command
-* examine the output through log files
-* exmaine the deployed OpenShift to ensure that all aspects of the homework were 
-deployed properly.
-
-
-Good luck!  And try to have fun!
-
-
-to install: ansible-playbook ./ocp_advanced_deployment_homework/homework.yaml
-
-
-to uninstall: sh ./ocp_advanced_deployment_homework/scripts/uninstall.sh
+to uninstall: sh ./ocp-adv-homework/scripts/uninstall.sh
 
 
